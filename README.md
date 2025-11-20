@@ -33,7 +33,7 @@
 
 <!-- Linguagens e Tecnologias -->
 <hr style="border: 0; border-top: 1px solid #2f3336; margin: 0;">
-<h2 align="center" style="font-size: 32px; margin-top: -10px;">Linguagens & Tecnologias</h2>
+<h2 align="center" style="font-size: 32px; margin-top: -10px;">Linguagens & Teconologias</h2>
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="60" />
