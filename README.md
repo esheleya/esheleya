@@ -43,6 +43,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="60" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60" />
 </div>
 
 <!-- Contato -->
