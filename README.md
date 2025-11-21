@@ -1,6 +1,6 @@
 <!-- Capsule -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEEEEE&height=120&section=header" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=EEEEEE&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header)" />
 </p>
 
 <!-- Nome + Titulo -->
