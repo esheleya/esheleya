@@ -10,7 +10,7 @@
 <!-- Texto que mexe (Animado) -->
 <p align="center" style="margin-top: -10px;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=E5EAF7&center=true&vCenter=true&width=435&lines=Data+analyst;Frontend+Developer;Python;Javascript;TypeScript"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=E5EAF7&center=true&vCenter=true&width=435&lines=Data+analyst;Frontend+Developer;Python;Javascript;TypeScript;React;PBI;RabbitMQ"
     alt="Typing SVG"
   />
 </p>
