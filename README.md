@@ -25,10 +25,6 @@
     <a href="https://www.instagram.com/unifbvwyden/" target="_blank">UNIFBV</a>
   </p>
 
-  <p style="margin: 0;">
-    <strong>Assistente de TI</strong> —
-    <a href="https://grupovirtron.com/" target="_blank">Grupo Virtron</a>
-  </p>
 </div>
 
 <!-- Linguagens e Tecnologias -->
