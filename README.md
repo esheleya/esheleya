@@ -23,6 +23,7 @@
   <p style="margin: 0;">
      <strong>Analista de T.I</strong> —
     <a href="https://www.instagram.com/grupo.sonho/" target="_blank">GRUPO SONHO</a>
+    
     <strong>Graduanda em Análise e Desenvolvimento de Sistemas</strong> —
     <a href="https://www.instagram.com/unifbvwyden/" target="_blank">UNIFBV</a>
   </p>
